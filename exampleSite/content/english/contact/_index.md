@@ -4,9 +4,8 @@ description: Contacta con nosotros para unirte a la lucha
 office:
   title: Responsable web Lazaro Mireles
   mobile: "+34 656 639 358"
-  email: maccionesporlademocracia@email.com
-  location: Cuba, España, Uruguay, Canadá, USA, Francia y todos los cubanos por el
-    mundo
+  email: maccionesporlademocracia@gmail.com
+  location: Cuba, España, Uruguay, Canadá, USA, Francia...
   content: ''
 opennig_hour:
   title: 'Cargos '
