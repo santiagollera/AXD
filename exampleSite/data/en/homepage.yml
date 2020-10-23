@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Movimiento Acciones por la Democracia
   content: Apoya nuestras acciones con un pequeño souvenir
-  image: images/watch.png
+  image: images/gente.png
   button:
     enable: true
     label: Ver porductos
