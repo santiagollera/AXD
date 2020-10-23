@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Movimiento Acciones por la Democracia
   content: Blog y tienda online AXD organización sin ánimo de lucro
-  image: images/protestagente.png
+  image: images/gente.png
   button:
     enable: true
     label: Últimas Acciones
