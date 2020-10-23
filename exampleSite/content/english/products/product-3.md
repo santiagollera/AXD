@@ -1,24 +1,17 @@
 ---
-title: "Xiaomi Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-4.png"
+title: Cadena con figura de isla de Cuba
+date: 2019-10-17T11:22:16.000+06:00
+images:
+- "/images/img-20201022-wa0009.jpg"
+- "/images/img-20201022-wa0010.jpg"
+- "/images/img-20201022-wa0011.jpg"
+description: Joyería Cuba, isla de Cuba
+price: '30.00'
+discount_price: '19.00'
+colors:
+- dorado
+- plata
+sizes: []
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
-
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Cadena plateada o dorada con la forma de la isla de Cuba. De muy buena calidad aunque no se trata de joyería de plata o oro. Acero inoxidable y materia con muy buenos acabados
