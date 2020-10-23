@@ -72,7 +72,7 @@ products:
   title: 'Echa un vistazo a nuestra tienda '
 subscription:
   enable: true
-  bg_image: images/call-to-action.jpg
+  bg_image: images/gentefondo.jpg
   title: Suscríbete a las últimas publicaciones del blog
   content: Blog oficial del Movimiento Acciones por la Democracia
   placeholder: Tu email aquí
