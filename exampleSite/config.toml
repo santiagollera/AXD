@@ -38,7 +38,7 @@ name = "Inicio"
 weight = 1
 [[menu.main]]
 URL = "products"
-name = "Productos"
+name = "Tienda"
 weight = 2
 [[menu.main]]
 URL = "blog"
