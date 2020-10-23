@@ -1,24 +1,17 @@
 ---
-title: "Realme Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-6.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: Pin de bandera de Cuba
+date: 2019-10-17T11:22:16.000+06:00
+images:
+- "/images/img-20201022-wa0016.jpg"
+- "/images/img-20201022-wa0015.jpg"
+- "/images/img-20201022-wa0014.jpg"
+- "/images/img-20201022-wa0017.jpg"
+- "/images/img-20201022-wa0018.jpg"
+description: Pin bandera de Cuba
+price: '5.00'
+discount_price: '3.80'
+colors: []
+sizes: []
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
-
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Pin dorado con enganche de seguridad para caqueta o bolso con la bandera de Cuba.
