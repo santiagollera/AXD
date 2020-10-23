@@ -11,7 +11,7 @@ banner:
 features:
   enable: true
   title: Nuestros productos estrella
-  image: images/img-20201023-wa0005.jpg
+  image: images/img-20201022-wa0003.jpg
   left_side:
   - title: Tacto suave
     icon: tf-ion-ios-alarm-outline
