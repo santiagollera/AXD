@@ -14,5 +14,9 @@ opennig_hour:
   - Diana
   - Ray
   - Lazaro Mireles
+menu:
+  main:
+    URL: contact
+    weight: 4
 
 ---

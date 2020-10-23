@@ -20,39 +20,16 @@ weight = 2
 URL = "blog"
 name = "Blog"
 weight = 1
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 2
-[[menu.footer]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 3
-[[menu.footer]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-weight = 4
-[[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
-[[menu.main]]
-URL = "products"
-name = "Products"
-weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
+url = "https://axdmovimiento.netlify.app/blog/#/"
 weight = 3
 [[menu.main]]
-URL = "testimonial"
-name = "Review"
-pre = "#"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+URL = "products"
+name = "Productos"
+url = "https://axdmovimiento.netlify.app/products/#/"
+weight = 2
 [params]
 author = "Santiago Llera"
 contact_form_action = "#"
