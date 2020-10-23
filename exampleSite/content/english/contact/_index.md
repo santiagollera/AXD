@@ -5,7 +5,7 @@ office:
   title: Información de Contacto
   mobile: "+34 656 639 358"
   email: maccionesporlademocracia@gmail.com
-  location: Cuba, España, Uruguay, Canadá, USA, Francia...
+  location: Madrid, España
   content: ''
 opennig_hour:
   title: 'Cargos '
