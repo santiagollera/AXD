@@ -91,13 +91,13 @@ logo = "images/logo.png"
 logo_width = "100px"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "Santiago Llera"
 # currency
-currency = "$"
+currency = "€"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # snipcart public api key
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcart_api = "MmZmZjhmMmUtZGFiYy00OTQ2LTllNGMtMDUxZWY2NWM2YzMzNjM3MzkwNzA4OTczNzQ2NTUx"
 
 # Preloader
 [params.preloader]
@@ -118,7 +118,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Diseñado por Santiago Llera (https://googleate.es/) AXD Movimiento(https://axdmovimiento.org/)"
 
 
 ################################### French language #####################################
@@ -128,4 +128,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Diseñado por Santiago Llera (https://googleate.es/) AXD Movimiento(https://axdmovimiento.org/)"
