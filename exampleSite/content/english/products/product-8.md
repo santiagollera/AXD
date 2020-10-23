@@ -15,4 +15,4 @@ colors:
 sizes: []
 
 ---
-Mascarilla unisex ajustable con la bandera de Cuba para todos los tamaños. Buena calidad dimesiones 15x20cm
+Mascarilla unisex ajustable con la bandera de Cuba para todos los tamaños. Buena calidad y clip metálica. Dimesiones 15x20cm
