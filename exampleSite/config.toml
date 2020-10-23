@@ -1,14 +1,14 @@
-baseurl = "http://examplesite.com/"
+baseurl = "https://axdmovimiento.netlify.app/#/"
 disableLanguages = []
 googleAnalytics = ""
-summarylength = "20"
+summarylength = "10"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "AXD Movimiento"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Diseñado por Santiago Llera (https://googleate.es/) AXD Movimiento(https://axdmovimiento.org/)"
-languageCode = "en-us"
-languageName = "En"
+languageCode = "es-Es"
+languageName = "Es"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
@@ -20,16 +20,39 @@ weight = 2
 URL = "blog"
 name = "Blog"
 weight = 1
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 2
+[[menu.footer]]
+URL = "terms-conditions"
+name = "Terms & Conditions"
+weight = 3
+[[menu.footer]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 4
+[[menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
+[[menu.main]]
+URL = "products"
+name = "Products"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-url = "https://axdmovimiento.netlify.app/blog/#/"
 weight = 3
 [[menu.main]]
-URL = "products"
-name = "Productos"
-url = "https://axdmovimiento.netlify.app/products/#/"
-weight = 2
+URL = "testimonial"
+name = "Review"
+pre = "#"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
 author = "Santiago Llera"
 contact_form_action = "#"
