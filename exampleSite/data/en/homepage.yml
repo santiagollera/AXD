@@ -73,9 +73,9 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  placeholder: Your Email Address Here
+  title: Suscríbete a las últimas publicaciones del blog
+  content: Blog oficial del Movimiento Acciones por la Democracia
+  placeholder: Tu email aquí
 testimonial:
   enable: true
   title: Watch Review
