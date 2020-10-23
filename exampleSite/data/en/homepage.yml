@@ -2,12 +2,12 @@
 banner:
   enable: true
   title: Movimiento Acciones por la Democracia
-  content: Apoya nuestras acciones con un pequeño souvenir
+  content: Blog y tienda online.Organización sin ánimo de lucro
   image: images/gente.png
   button:
     enable: true
-    label: Ver porductos
-    link: products
+    label: Últimas Acciones
+    link: blog
 features:
   enable: true
   title: Nuestros productos estrella
