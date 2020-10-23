@@ -22,36 +22,31 @@ name = "Blog"
 weight = 1
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 2
 [[menu.footer]]
 URL = "terms-conditions"
-name = "Terms & Conditions"
+name = "Terminos & Condiciones"
 weight = 3
 [[menu.footer]]
 URL = "privacy-policy"
-name = "Privacy Policy"
+name = "Política de Privacidad"
 weight = 4
 [[menu.main]]
 URL = "/"
-name = "Home"
+name = "Inicio"
 weight = 1
 [[menu.main]]
 URL = "products"
-name = "Products"
+name = "Productos"
 weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "testimonial"
-name = "Review"
-pre = "#"
-weight = 4
-[[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 5
 [params]
 author = "Santiago Llera"
