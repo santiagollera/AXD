@@ -78,10 +78,10 @@ subscription:
   placeholder: Tu email aquí
 testimonial:
   enable: true
-  title: Watch Review
+  title: Comentarios de nuestros integrantes
   testimonial_item:
-  - name: Jonathon Andrew
-    designation: CEO, Themefisher
+  - name: Lázaro Mireles
+    designation: Presidente de AXD y portavoz de Somos+ España
     image: images/avater.png
     content: A wonderful serenity has taken possession of my entire soul, like these
       sweet mornings of spring which I enjoy with my whole heart. I am alone, and
