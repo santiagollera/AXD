@@ -11,7 +11,7 @@ banner:
 features:
   enable: true
   title: Nuestros productos estrella
-  image: images/watch-2.png
+  image: images/img-20201023-wa0005.jpg
   left_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
