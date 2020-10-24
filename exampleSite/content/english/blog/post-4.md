@@ -5,11 +5,7 @@ image: "/images/img-20200906-wa0003.jpg"
 description: Regulados Cuba, Caso Lidier
 
 ---
-Ya son 3 meses y 21 días retenido sin respuesta alguna. ¿Dónde están la justicia y el humanismo que tanto se proclaman en Cuba?
-
-En mi caso violan la Declaración Universal de los Derechos Humanos en sus artículos 1, 2, 3, 7, 12, 13, 14, 18, 19 y 30;
-
-Además violan la propia constitución cubana de 2019 en su artículos 40, 41, 42, 52, 53 y 54.
+Ya son 3 meses y 21 días retenido sin respuesta alguna. ¿Dónde están la justicia y el humanismo que tanto se proclaman en Cuba? En mi caso violan la Declaración Universal de los Derechos Humanos en sus artículos 1, 2, 3, 7, 12, 13, 14, 18, 19 y 30; Además violan la propia constitución cubana de 2019 en su artículos 40, 41, 42, 52, 53 y 54.
 
 Comisión Directiva
 
