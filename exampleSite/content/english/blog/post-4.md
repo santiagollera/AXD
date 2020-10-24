@@ -1,7 +1,7 @@
 ---
 title: Acciones contra "Los Regulados" / Caso Lidier
 date: 2019-10-17T11:22:16.000+06:00
-image: "/images/img-20200906-wa0003.jpg"
+image: "/images/caso-lidier.jpg"
 description: Regulados Cuba, Caso Lidier
 
 ---
