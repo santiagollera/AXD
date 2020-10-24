@@ -10,7 +10,7 @@ office:
 opennig_hour:
   title: 'Cargos '
   day_time:
-  - David
+  - David San Pelayo
   - Diana
   - Ray
   - Lazaro Mireles
