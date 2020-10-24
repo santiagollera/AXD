@@ -13,7 +13,7 @@ opennig_hour:
   - David San Pelayo
   - Diana Angel Bello
   - Lazaro Mireles
-  - Ray
+  - Lázaro García Farah
   - Santiago Llera Díaz
   - Santiago Llera García
   - Tania
