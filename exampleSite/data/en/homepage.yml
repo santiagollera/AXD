@@ -18,8 +18,7 @@ features:
     content: Textil sueva de buena calidad, detalles y terminaciones
   - title: Precio asequible
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Por sólo 10€ puede ser tuya
   right_side: []
 promo:
   enable: true
