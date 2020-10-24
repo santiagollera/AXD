@@ -9,10 +9,10 @@
         <h2 class="subheading text-white">{{ .title | markdownify }}</h2>
         <p class="text-white">{{ .content | markdownify }}</p>
         <div class="input-group">
-          <form action="{{ site.Params.mailchimp_form_action }}" method="post" class="w-100" name="mc-embedded-subscribe-form" target="_blank">
+          <form method="post" class="w-100" name="mc-embedded-subscribe-form" target="_blank">
             <input type="email" id="email" class="form-control" name="email" placeholder="{{ .placeholder }}"
               required>
-            <button class="btn btn-main btn-submit" type="submit" name="subscribe">{{i18n "subscribe"}}</button>
+            <button class="btn btn-main btn-submit" href="https://google.us10.list-manage.com/subscribe?u=4919577a482e0460db9da459a&id=280642d70b" type="submit" name="subscribe">{{i18n "subscribe"}}</button>
             <div style="position: absolute; left: -5000px;" aria-hidden="true">
               <input type="text" name="{{ site.Params.mailchimp_form_name }}" tabindex="-1">
             </div>
