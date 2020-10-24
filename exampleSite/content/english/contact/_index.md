@@ -10,12 +10,13 @@ office:
 opennig_hour:
   title: Miembros activos
   day_time:
+  - David San Pelayo
+  - Diana Angel Bello
+  - Lazaro Mireles
+  - Ray
   - Santiago Llera Díaz
   - Santiago Llera García
-  - David San Pelayo
-  - Diana
-  - Ray
-  - Lazaro Mireles
+  - Tania
 menu:
   main:
     URL: contact
