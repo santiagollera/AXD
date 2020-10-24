@@ -24,10 +24,10 @@ promo:
   enable: true
   image: images/protesta-uruguay.jpg
   title: Apoya la causa por la democracia de Cuba
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  content: 'En nuestro portal web además de manternte al día con las publicaciones
+    y entradas en el blog también participamos activamente respaldando a nuestros
+    activistas dentro de la isla. Ayuda a nuestras acciones simplemente adquiriendo
+    alguno de nuestros productos en la tienda '
 about_product:
   enable: true
   title: Por qué apoyar el Movimiento AXD?

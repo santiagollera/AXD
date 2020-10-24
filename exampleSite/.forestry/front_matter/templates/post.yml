@@ -14,5 +14,3 @@ fields:
 - type: text
   name: description
   label: Descripción
-pages:
-- exampleSite/content/english/blog/acciones-por-reconocer-presos-politicos.20191203072044
