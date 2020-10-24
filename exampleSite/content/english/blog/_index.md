@@ -1,5 +1,5 @@
 ---
-title: "Our Latest Post"
-description : "this is a meta description"
+title: "Últimas publicaciones"
+description : "Blog AXD Movimiento"
 draft: false
 ---
