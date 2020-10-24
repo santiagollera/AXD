@@ -42,15 +42,17 @@ about_product:
       enable: true
       label: Leer más
       link: https://axdmovimiento.netlify.app/blog/#/
-  - image: images/img-20200906-wa0003.jpg
+  - image: images/banner-home2.jpg
     title: Luchamos por la libertad de Cuba
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    content: Creación, Gestión y Seguimiento y Justificación de Proyectos relacionados
+      con la financiación que ofrecen embajadas extranjeras en Cuba para fines artísticos,
+      desarrollo de comunidades, o ayudas a personas que se encuentran en peligro
+      de exclusión social.  (de forma totalmente gratuita y sin beneficio de ningún
+      tipo para el movimiento)
     button:
-      enable: false
-      label: Check Features
-      link: "#"
+      enable: true
+      label: Leer más
+      link: https://axdmovimiento.netlify.app/blog/#/
 products:
   enable: true
   title: 'Echa un vistazo a nuestra tienda '
