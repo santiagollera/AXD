@@ -8,8 +8,10 @@ office:
   location: Madrid, España
   content: ''
 opennig_hour:
-  title: 'Cargos '
+  title: Miembros activos
   day_time:
+  - Santiago Llera Díaz
+  - Santiago Llera García
   - David San Pelayo
   - Diana
   - Ray
