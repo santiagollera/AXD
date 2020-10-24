@@ -32,7 +32,7 @@ about_product:
   enable: true
   title: Por qué apoyar el Movimiento AXD?
   items:
-  - image: images/home-banner.jpg
+  - image: images/banner-home.jpg
     title: Luchamos por nuestros derechos
     content: |-
       Actos de protesta en sedes de Comisiones de Derechos Humanos  a nivel  mundial, de país, de organizaciones gubernamentales o no gubernamentales .
