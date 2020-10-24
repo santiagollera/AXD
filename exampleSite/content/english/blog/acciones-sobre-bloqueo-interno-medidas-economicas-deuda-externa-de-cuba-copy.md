@@ -1,7 +1,7 @@
 +++
 date = 2020-10-24T05:22:16Z
 description = "Desarrollo comunidades en Cuba"
-image = "/images/gobierno-cubano.jpg"
+image = "/images/comunidades-cuba.jpg"
 title = "Acciones para promover proyectos de desarrollo en comunidades en Cuba"
 
 +++
