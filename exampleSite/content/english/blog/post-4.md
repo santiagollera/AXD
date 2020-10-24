@@ -2,7 +2,7 @@
 title: Acciones contra "Los Regulados" / Caso Lidier
 date: 2019-10-17T11:22:16.000+06:00
 image: "/images/img-20200906-wa0003.jpg"
-description: this is a meta description
+description: Regulados Cuba, Caso Lidier
 
 ---
 Ya son 3 meses y 21 días retenido sin respuesta alguna. ¿Dónde están la justicia y el humanismo que tanto se proclaman en Cuba?
