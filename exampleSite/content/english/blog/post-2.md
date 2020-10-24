@@ -2,7 +2,7 @@
 title: Declaración contra Decreto-Ley 370- Ley Azote
 date: 2019-10-17T11:22:16.000+06:00
 image: "/images/ley-azote.jpg"
-description: this is a meta description
+description: Ley Azote 370
 
 ---
 ## **FIRMA LA PETICION -->>** [**https://secure.avaaz.org/es/community_petitions/asamblea_nacional_del_poder_popular_de_cuba_declaracion_contra_el_decretoley_370_ley_azote/dashboard**](https://secure.avaaz.org/es/community_petitions/asamblea_nacional_del_poder_popular_de_cuba_declaracion_contra_el_decretoley_370_ley_azote/dashboard "https://secure.avaaz.org/es/community_petitions/asamblea_nacional_del_poder_popular_de_cuba_declaracion_contra_el_decretoley_370_ley_azote/dashboard")
