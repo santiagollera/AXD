@@ -16,27 +16,11 @@ features:
   - title: Tacto suave
     icon: tf-ion-ios-alarm-outline
     content: Textil sueva de buena calidad, detalles y terminaciones
-  - title: Diseño elegante
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
   - title: Precio asequible
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  right_side:
-  - title: Protección COVID19
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Bandera de Cuba
-    icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Ajustable
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  right_side: []
 promo:
   enable: true
   image: images/protesta-uruguay.jpg
