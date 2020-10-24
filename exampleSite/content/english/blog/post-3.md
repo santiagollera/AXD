@@ -2,7 +2,7 @@
 title: Acciones sobre Bloqueo Interno, Medidas Económicas, Deuda Externa de Cuba
 date: 2019-10-17T11:22:16.000+06:00
 image: "/images/gobierno-cubano.jpg"
-description: this is a meta description
+description: Bloqueo interno Cuba
 
 ---
 
