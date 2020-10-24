@@ -50,7 +50,7 @@ name = "Contacto"
 weight = 5
 [params]
 author = "Santiago Llera"
-contact_form_action = "#"
+contact_form_action = ""
 currency = "€"
 description = "Movimiento Acciones por la Democracia"
 logo = "images/logo.png"
