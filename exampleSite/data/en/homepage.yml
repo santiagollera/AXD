@@ -32,15 +32,16 @@ about_product:
   enable: true
   title: Por qué apoyar el Movimiento AXD?
   items:
-  - image: images/img-20200906-wa0006.jpg
-    title: Hacemos acciones
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+  - image: images/home-banner.jpg
+    title: Luchamos por nuestros derechos
+    content: |-
+      Actos de protesta en sedes de Comisiones de Derechos Humanos  a nivel  mundial, de país, de organizaciones gubernamentales o no gubernamentales .
+      Actos de protesta en Embajadas, Consulados o instituciones del Gobierno Cubano en el Exterior (en Cuba está prohibido)
+      Incidencia Mediática Internacional: Apoyo y creación de campañas a favor del respeto a la dignidad plena de las personas.
     button:
-      enable: false
-      label: Check Features
-      link: "#"
+      enable: true
+      label: Leer más
+      link: https://axdmovimiento.netlify.app/blog/#/
   - image: images/img-20200906-wa0003.jpg
     title: Luchamos por la libertad de Cuba
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
