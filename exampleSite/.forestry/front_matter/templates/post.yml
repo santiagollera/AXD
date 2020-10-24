@@ -14,5 +14,3 @@ fields:
 - type: text
   name: description
   label: Descripción
-pages:
-- exampleSite/content/english/blog/objetivo-del-movimiento-axd.20191203072044
