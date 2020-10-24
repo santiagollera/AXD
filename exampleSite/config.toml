@@ -55,7 +55,7 @@ currency = "€"
 description = "Movimiento Acciones por la Democracia"
 logo = "images/logo.png"
 logo_width = "100px"
-snipcart_api = "MmZmZjhmMmUtZGFiYy00OTQ2LTllNGMtMDUxZWY2NWM2YzMzNjM3MzkwNzA4OTczNzQ2NTUx"
+snipcart_api = "Y2E3ODc4NzQtZmUwYi00ZDVlLWI3N2ItYjUzNzNjOTAzOWQ0NjM3MzkwNzA4OTczNzQ2NTUx"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
