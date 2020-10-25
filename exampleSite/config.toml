@@ -17,9 +17,9 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "blog"
-name = "Blog"
-weight = 1
+URL = "privacy-policy"
+name = "Priolítica de Privacidad"
+weight = 5
 [[menu.footer]]
 URL = "contact"
 name = "Contacto"
@@ -27,27 +27,31 @@ weight = 2
 [[menu.footer]]
 URL = "terms-conditions"
 name = "Terminos & Condiciones"
+weight = 4
+[[menu.footer]]
+URL = "contact"
+name = "Contacto"
 weight = 3
 [[menu.footer]]
-URL = "privacy-policy"
-name = "Política de Privacidad"
-weight = 4
-[[menu.main]]
-URL = "/"
-name = "Inicio"
+URL = "blog"
+name = "Blog"
 weight = 1
 [[menu.main]]
-URL = "products"
-name = "Tienda"
-weight = 2
+URL = "contact"
+name = "Contacto"
+weight = 5
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 3
 [[menu.main]]
-URL = "contact"
-name = "Contacto"
-weight = 5
+URL = "products"
+name = "Tienda"
+weight = 2
+[[menu.main]]
+URL = "/"
+name = "Inicio"
+weight = 1
 [params]
 author = "Santiago Llera"
 contact_form_action = ""
