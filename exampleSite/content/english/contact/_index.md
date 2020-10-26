@@ -16,7 +16,7 @@ opennig_hour:
   - Lázaro García Farah
   - Santiago Llera Díaz
   - Santiago Llera García
-  - Tania
+  - Servilio Romero Mesa
 menu:
   main:
     URL: contact
